@@ -2,7 +2,7 @@
     "name": "newtonman/cakephp2-bootstrap4-helpers",
     "description": "Bootstrap 4 Helpers for CakePHP 2.x",
     "keywords": ["CakePHP", "Bootstrap", "Helper"],
-    "license": "GPL",
+    "license": "GPL-3.0-or-later",
     "type": "cakephp-plugin",
     "require": {
         "composer/installers": "*"
