@@ -14,7 +14,7 @@ Do not hesitate to...
 Installation
 ============
 
-Simply Clone the repository in your `app/Plugin/Bootstrap3` folder and add the following to your `app/Config/bootstrap.php`:
+Simply Clone the repository in your `app/Plugin/Bootstrap4` folder and add the following to your `app/Config/bootstrap.php`:
 
 ```php
 CakePlugin::load('Bootstrap4') ;
